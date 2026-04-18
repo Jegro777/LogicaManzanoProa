@@ -1,11 +1,9 @@
-
-
-
 # 📚 Algoritmos - José Augusto Manzano
+
+Estudos e resoluções baseados na obra de José Augusto Manzano. Este repositório reflete meu progresso em conceitos fundamentais de Ciência da Computação.
 
 ## 📌 Sobre o projeto
 
-Estudos e resoluções baseados na obra de José Augusto Manzano. Este repositório reflete meu progresso em conceitos fundamentais de Ciência da Computação.
 
 Este repositório foi criado com o objetivo de **revisitar e fortalecer fundamentos essenciais de programação**, focando em lógica, resolução de problemas e clareza de raciocínio.
 
