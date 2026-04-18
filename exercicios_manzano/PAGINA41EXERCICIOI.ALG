@@ -1,0 +1,22 @@
+Algoritmo "Pagina41exercicioI"
+// Disciplina : L�gica de Programa��o
+// Professor  : Jailson Costa dos Santos
+// Descri��o  : Impar ou par
+// Autor(a)   : Thiago Jesus Dias 
+// Data atual : 05/04/2026
+Var
+   // Se��o de Declara��es das vari�veis
+   valor : inteiro
+
+Inicio
+   // Se��o de Comandos, procedimento, fun��es, operadores, etc...
+   Escreva("Digite o valor: ")
+   Leia(valor)
+
+   se valor mod 2 = 0  entao
+      escreval("Par")
+   senao
+      escreval("�mpar")
+   fimse
+
+Fimalgoritmo
